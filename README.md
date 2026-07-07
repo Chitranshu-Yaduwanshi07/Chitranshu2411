@@ -1,13 +1,15 @@
-<!-- ================= HERO SECTION ================= -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:0ea5e9,85:22c55e,100:0f172a&text=Hello,%20I'm%20CHITRANSHU%20YADAV&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
-
-<br/>
+# 👋 Hi, I'm Chitranshu Yadav
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space%20Grotesk&weight=900&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Java%20Full%20Stack%20Developer;Spring%20Boot%20%7C%20React%20%7C%20MySQL;Building%20AI%20Driven%20SaaS%20Platform%20🚀;AI%20%26%20RAG%20Systems%20Explorer;100%20Days%20Of%20Code%20💻" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,35:1E40AF,70:22C55E,100:06B6D4&text=Chitranshu%20Yadav&fontColor=ffffff&fontSize=42&fontAlignY=38"/>
+
+### 💻 Java Full Stack Developer | Spring Boot | React | AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Developer;Building+AI+Powered+Applications;Learning+AWS+%26+DevOps;100+Days+of+Code"/>
+
+![](https://komarev.com/ghpvc/?username=Chitranshu-Yaduwanshi07&style=for-the-badge&color=22c55e)
 
 </div>
 
@@ -15,75 +17,116 @@
 
 # 🚀 About Me
 
-- 🎓 3rd Year CSE Student  
-- 💻 Target: Java Full Stack Developer   
-- 🧠 AI + RAG + LLM Integration  
-- 🏗️ Building: CodeNova (AI-Driven Code Generation Saas platform)  
-- ✨ Creator of: Dr. Jivika & Skill-Sensei Project & CodeNova 
+```yaml
+Name: Chitranshu Yadav
+Role: Java Full Stack Developer
+Education: B.Tech CSE
+Current Focus:
+  - Spring Boot
+  - React
+  - MySQL
+  - AI + RAG
+  - Docker
+Learning:
+  - AWS
+  - Kubernetes
+  - CI/CD
+Building:
+  - CodeNova AI
+  - Skill Sensei LMS
+```
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### ⚙️ Backend
+## 💻 Languages
+
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-<img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts"/>
 </p>
 
-### 🎨 Frontend
+## 🌐 Frontend
+
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
 </p>
 
-### 🤖 AI & Tools
+## ⚙ Backend
+
 <p>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,hibernate"/>
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## ☁ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,linux"/>
+</p>
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma"/>
 </p>
 
 ---
 
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+# 🚀 Featured Projects
 
-<h2 align="center">🔥 Contribution Activity 🔥</h2>
+## 🤖 CodeNova AI
+AI-powered code generation SaaS platform using Spring Boot, React, AI APIs and RAG.
 
-<div align="center">
+## 🎓 Skill Sensei
+Learning Management System with Admin CMS, authentication, quizzes and AI integration.
 
-[![Chitranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-Yaduwanshi07&bg_color=0d1117&color=00f2ff&line=22c55e&point=ffffff&area=true&hide_border=true)](https://github.com/Chitranshu-Yaduwanshi07)
+---
 
-</div>
+# 📊 GitHub Analytics
 
-<br/>
+<p align="center">
 
-<h2 align="center">⚡ Activity ⚡</h2>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chitranshu-Yaduwanshi07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<img width="48%" src="https://streak-stats.demolab.com?user=Chitranshu-Yaduwanshi07&theme=tokyonight&hide_border=true"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chitranshu-Yaduwanshi07&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff)](https://git.io/streak-stats)
+</p>
 
-</div>
+<p align="center">
 
-<br/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranshu-Yaduwanshi07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🕹️ Pacman Contribution Game
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chitranshu-Yaduwanshi07&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu-Yaduwanshi07&theme=github-compact&hide_border=true)](https://github.com/Chitranshu-Yaduwanshi07)
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -91,26 +134,47 @@
 
 ---
 
-# 📫 Let's Connect
+# 🎯 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Learn Microservices
+- ✅ Learn Kubernetes
+- ✅ Build SaaS Products
+- ✅ Crack Product Based Company
+- ✅ Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:chitranshu2411@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/chitranshu-yadav">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Chitranshu-Yaduwanshi07">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://instagram.com/chitranshu_yadav_07">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<a href="chitranshu2411@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+### ⭐ Thanks for visiting my profile!
 
-<a href="https://www.linkedin.com/in/chitranshu-yadav">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+*"Code. Learn. Build. Repeat."*
 
-<a href="https://www.instagram.com/chitranshu_yadav_07/">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,35:1E40AF,70:22C55E,100:06B6D4"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Build%20Something%20Impactful%20🚀&fontSize=20&fontColor=000000&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
