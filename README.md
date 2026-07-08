@@ -85,10 +85,10 @@
 
 ## 🕹️ Pacman Contribution Game
 
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Chitransh-Yaduwanshi47&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=ffffff"/>
-
+  <img src="https://streak-stats.demolab.com?user=Chitransh-Yaduwanshi47&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
